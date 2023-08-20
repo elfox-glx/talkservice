@@ -3,7 +3,7 @@
 package linethrift
 
 import (
-	"../thrift"
+	thrift "github.com/elfox-glx/thrift"
 	"bytes"
 	"context"
 	"fmt"
